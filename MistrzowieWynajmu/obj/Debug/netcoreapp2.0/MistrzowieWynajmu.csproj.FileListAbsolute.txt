@@ -1,0 +1,11 @@
+C:\Repos\mistrzowiewynajmu_vol5\MistrzowieWynajmu\bin\Debug\netcoreapp2.0\MistrzowieWynajmu.deps.json
+C:\Repos\mistrzowiewynajmu_vol5\MistrzowieWynajmu\bin\Debug\netcoreapp2.0\MistrzowieWynajmu.runtimeconfig.json
+C:\Repos\mistrzowiewynajmu_vol5\MistrzowieWynajmu\bin\Debug\netcoreapp2.0\MistrzowieWynajmu.runtimeconfig.dev.json
+C:\Repos\mistrzowiewynajmu_vol5\MistrzowieWynajmu\bin\Debug\netcoreapp2.0\MistrzowieWynajmu.dll
+C:\Repos\mistrzowiewynajmu_vol5\MistrzowieWynajmu\bin\Debug\netcoreapp2.0\MistrzowieWynajmu.pdb
+C:\Repos\mistrzowiewynajmu_vol5\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.csprojResolveAssemblyReference.cache
+C:\Repos\mistrzowiewynajmu_vol5\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.csproj.CoreCompileInputs.cache
+C:\Repos\mistrzowiewynajmu_vol5\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.AssemblyInfoInputs.cache
+C:\Repos\mistrzowiewynajmu_vol5\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.AssemblyInfo.cs
+C:\Repos\mistrzowiewynajmu_vol5\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.dll
+C:\Repos\mistrzowiewynajmu_vol5\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.pdb
